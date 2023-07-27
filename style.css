@@ -41,13 +41,19 @@ a {
     text-decoration: none;
     }
 
+
 #TopHeader{
     background-color: white;
     color: black;
+    font-family: Helvetica;
 }
 
-#BottomLine{
+
+#big_div{
     background-color: white;
     color: black;
+    display: flex;
+
 }
+
 

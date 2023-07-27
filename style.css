@@ -20,21 +20,34 @@ div {
     width: 60px;
     
     }
- 
+
     #playbutton{
         width: 150px;
         height: 50px;
     }
 
+.items1:hover{
+    text-decoration: underline blue 5px;
+}
 
-    .items:hover{
-        background-color: grey;
-        opacity: 0.5;
-    }
+.items2:hover{
+    text-decoration: underline orange 5px;
+}
+
+a {
     
-    a {
-    
-        width: 20%;
-        text-align: center;
-        text-decoration: none;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
     }
+
+#TopHeader{
+    background-color: white;
+    color: black;
+}
+
+#BottomLine{
+    background-color: white;
+    color: black;
+}
+

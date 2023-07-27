@@ -20,7 +20,13 @@ div {
     width: 60px;
     
     }
-    
+ 
+    #playbutton{
+        width: 150px;
+        height: 50px;
+    }
+
+
     .items:hover{
         background-color: grey;
         opacity: 0.5;
